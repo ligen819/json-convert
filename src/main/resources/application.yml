@@ -1,0 +1,6 @@
+json:
+  convert:
+    - uri: test1
+      data: rows
+    - uri: test2
+      data: list
